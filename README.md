@@ -8,7 +8,7 @@ This is the desk operating system after the 14 Sep 2026 pass:
 | --- | --- |
 | Project delusional / STP | [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) — pins, kill-ifs, two tracks |
 | Luke | [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) `v1.0.0-rc.1` — the x402 **v2** envelope |
-| Grok heavy | [STP-KAS/grok-heavy-test](https://github.com/STP-KAS/grok-heavy-test) — agent test that broke Windows checkout |
+| Grok heavy | [STP-KAS/grok-heavy-test](https://github.com/STP-KAS/grok-heavy-test) — send Luke [docs/00-for-luke.md](https://github.com/STP-KAS/grok-heavy-test/blob/main/docs/00-for-luke.md) |
 | This mix | Best practice, advice, steps, who in core, capital, pushback — over **every** STP-KAS repo + Parker + PegLab + Gramlane + KaChat + kaspaexplained |
 
 Date: **2026-09-14**. Full authority: pick a path, kill the rest, say when money is missing, do not flatter the catalog.
@@ -19,7 +19,8 @@ Date: **2026-09-14**. Full authority: pick a path, kill the rest, say when money
 
 | Want | Open |
 | --- | --- |
-| One screen of orders | this README, [Verdict](#verdict) then [Steps](#steps) |
+| **Send Luke** | [grok-heavy-test / docs/00-for-luke.md](https://github.com/STP-KAS/grok-heavy-test/blob/main/docs/00-for-luke.md) |
+| One screen of orders (this desk) | this README, [Verdict](#verdict) then [Steps](#steps) |
 | Every GitHub, honest label | [docs/01-portfolio.md](docs/01-portfolio.md) |
 | Best practice (do / do not) | [docs/02-practice.md](docs/02-practice.md) |
 | What to improve, repo by cluster | [docs/03-improve.md](docs/03-improve.md) |
@@ -180,7 +181,8 @@ Full: [docs/05-capital.md](docs/05-capital.md)
 | Send | URL |
 | --- | --- |
 | This mix | https://github.com/STP-KAS/delusional-stp-grok-mix |
-| Grok heavy (Luke) | https://github.com/STP-KAS/grok-heavy-test |
+| Grok heavy (send Luke this page) | https://github.com/STP-KAS/grok-heavy-test/blob/main/docs/00-for-luke.md |
+| Grok heavy (repo) | https://github.com/STP-KAS/grok-heavy-test |
 | Luke | https://github.com/elldeeone/kaspa-x402 |
 | Pins | https://github.com/STP-KAS/kaspa-master-file |
 | Parker | https://github.com/parker2017code/kaspa-explained |
