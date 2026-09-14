@@ -1,17 +1,16 @@
 # Send this
 
-## Short DM
+Luke gets **grok-heavy-test**, not this mix.
 
 ```
-desk mix, now with your repo + grok heavy:
+report-back is this page:
 
-https://github.com/STP-KAS/delusional-stp-grok-mix
+https://github.com/STP-KAS/grok-heavy-test/blob/main/docs/00-for-luke.md
 
-orders: bind kaspa-x402, fill our TN10 timeout journal, one till (KAS only), don’t mint a fourth 402.
-grok heavy: https://github.com/STP-KAS/grok-heavy-test
+https://github.com/STP-KAS/grok-heavy-test
 ```
 
-## For anyone on the desk
+This mix stays desk orders:
 
 ```
 https://github.com/STP-KAS/delusional-stp-grok-mix
