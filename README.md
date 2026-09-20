@@ -194,3 +194,12 @@ Full: [docs/05-capital.md](docs/05-capital.md)
 | Receipt PoC | https://github.com/STP-KAS/peglab-poc |
 | Ishum till | https://github.com/STP-KAS/ishum |
 | KaChat upstream | https://github.com/KaspaSilver/KaChat-Desktop |
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
