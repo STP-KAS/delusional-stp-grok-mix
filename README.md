@@ -47,7 +47,7 @@ Luke’s repo is the envelope. Grok heavy is the proof we actually ran it. Maste
 
 ## The mix in three sentences
 
-1. **Luke / kaspa-x402** — real x402 v2 binding for native KAS. Bind it. TN10 only. Not v1. Not mainnet. Windows `npm test` fails until `.gitattributes`. Full: [grok-heavy-test](https://github.com/STP-KAS/grok-heavy-test).
+1. **Luke / kaspa-x402** — real x402 v2 binding for native KAS. Bind it. TN10 only. Not v1. Not mainnet. Windows `npm test` was green after upstream `216ad77` (see grok-heavy-test). The earlier CRLF failure is not the current result. Full: [grok-heavy-test](https://github.com/STP-KAS/grok-heavy-test).
 2. **Parker / kaspaexplained** — 1 receipt = 1 locked sompi. Status lanes. Cite; do not fork the site into a second truth. Overlay [kaspaexplained-delusional-stp](https://github.com/STP-KAS/kaspaexplained-delusional-stp) stays an overlay.
 3. **PegLab / Gramlane / Ishum / KaChat** — classroom that **will depeg**; grams are mass not a token; Ishum is a **till not x402**; KaChat is Silver’s product, STP has too many copies.
 
